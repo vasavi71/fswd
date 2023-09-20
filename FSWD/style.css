@@ -1,0 +1,17 @@
+
+/* Mobile Styles (Up to 768px) */
+@media screen and (max-width: 768px) {
+    h1, h2 {
+        font-size: 40px; /* Adjust as needed */
+    }
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+/* Mobile Styles (Up to 768px) */
+@media screen and (max-width: 768px) {
+    header, footer {
+        font-size: 24px; /* Adjust as needed */
+    }
+}
